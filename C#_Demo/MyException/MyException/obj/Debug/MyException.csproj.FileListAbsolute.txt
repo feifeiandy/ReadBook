@@ -1,0 +1,9 @@
+D:\VSDemo\MyException\MyException\bin\Debug\MyException.exe.config
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.csprojResolveAssemblyReference.cache
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.Form1.resources
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.Properties.Resources.resources
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.csproj.GenerateResource.Cache
+D:\VSDemo\MyException\MyException\bin\Debug\MyException.exe
+D:\VSDemo\MyException\MyException\bin\Debug\MyException.pdb
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.exe
+D:\VSDemo\MyException\MyException\obj\Debug\MyException.pdb

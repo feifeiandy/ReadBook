@@ -1,0 +1,10 @@
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources

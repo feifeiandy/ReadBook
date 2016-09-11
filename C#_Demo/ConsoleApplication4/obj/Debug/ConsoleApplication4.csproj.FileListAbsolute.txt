@@ -1,0 +1,6 @@
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\WF\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

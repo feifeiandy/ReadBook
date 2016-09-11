@@ -1,0 +1,3 @@
+D:\Git\C#_Demo\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
