@@ -1,0 +1,14 @@
+D:\Git\C#_Demo\MyUnity\bin\Debug\MyUnity.exe.config
+D:\Git\C#_Demo\MyUnity\bin\Debug\MyUnity.exe
+D:\Git\C#_Demo\MyUnity\bin\Debug\MyUnity.pdb
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Git\C#_Demo\MyUnity\obj\Debug\MyUnity.exe
+D:\Git\C#_Demo\MyUnity\obj\Debug\MyUnity.pdb

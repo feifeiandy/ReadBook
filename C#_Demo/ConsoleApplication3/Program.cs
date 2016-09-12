@@ -10,8 +10,9 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+
+            List<int> a = new List<int>() {1,2,3 };
             
-            Console.Read();
         }
 
         public void fun()
