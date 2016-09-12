@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Practices.Unity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +9,21 @@ namespace MyUnityTest
 {
     public class Man:IHuman
     {
-        public void run()
+        IPeople p;
+        [InjectionConstructor]
+        public Man(IPeople p)
         {
-            Console.WriteLine("run");
+            this.p = p;
+            
+        }
+        public void run(string s)
+        {
+            this.p.print(s);
+        }
+
+        public int sum(int a,int b)
+        {
+            return this.p.sum(a,b);
         }
     }
 }

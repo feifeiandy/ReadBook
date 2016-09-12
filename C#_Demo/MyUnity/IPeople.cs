@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyUnityTest
 {
-    public interface IHuman
+    public interface IPeople
     {
-        void run(string s);
-        int sum(int a, int b);
+        void print(string s);
+
+        int sum(int a,int  b);
+
     }
 }

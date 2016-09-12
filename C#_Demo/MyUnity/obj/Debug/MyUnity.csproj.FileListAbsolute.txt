@@ -12,3 +12,4 @@ D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Git\C#_Demo\MyUnity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
 D:\Git\C#_Demo\MyUnity\obj\Debug\MyUnity.exe
 D:\Git\C#_Demo\MyUnity\obj\Debug\MyUnity.pdb
+D:\Git\C#_Demo\MyUnity\obj\Debug\MyUnity.csprojResolveAssemblyReference.cache

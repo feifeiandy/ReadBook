@@ -19,7 +19,7 @@ namespace MyUnity
             unity.Configure(container,"myunity");
 
            IHuman man= container.Resolve<IHuman>("hu");
-           man.run();
+           Console.WriteLine(man.sum(1,2));
            Console.Read();
         }
     }
