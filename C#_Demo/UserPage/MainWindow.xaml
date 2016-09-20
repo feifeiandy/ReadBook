@@ -1,0 +1,9 @@
+﻿<Window xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"  x:Class="UserPage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <StackPanel >
+        <Label x:Name="lb1" Height="30"></Label>
+        <telerik:RadDataPager x:Name="_paging" PageIndexChanged="_paging_PageIndexChanged" />
+    </StackPanel>
+</Window>

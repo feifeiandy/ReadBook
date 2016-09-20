@@ -1,0 +1,13 @@
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Git\C#_Demo\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+D:\Git\C#_Demo\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,9 @@
+D:\Git\C#_Demo\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Git\C#_Demo\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Git\C#_Demo\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Git\C#_Demo\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

@@ -24,5 +24,22 @@ namespace WpfApplication1
         {
             InitializeComponent();
         }
+
+        private void myViewport_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Point pt = e.GetPosition((UIElement)sender);
+
+            // Perform the hit test against a given portion of the visual object tree.
+            HitTestResult result = VisualTreeHelper.HitTest(myCanvas, pt);
+
+            if (result != null)
+            {
+                // Perform action on hit visual object.
+                MessageBox.Show(sender.ToString());
+            }
+        }
+
+       
+        
     }
 }

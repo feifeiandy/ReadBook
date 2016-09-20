@@ -1,0 +1,6 @@
+D:\Git\C#_Demo\Mylock\bin\Debug\Mylock.exe.config
+D:\Git\C#_Demo\Mylock\bin\Debug\Mylock.exe
+D:\Git\C#_Demo\Mylock\bin\Debug\Mylock.pdb
+D:\Git\C#_Demo\Mylock\obj\Debug\Mylock.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\Mylock\obj\Debug\Mylock.exe
+D:\Git\C#_Demo\Mylock\obj\Debug\Mylock.pdb

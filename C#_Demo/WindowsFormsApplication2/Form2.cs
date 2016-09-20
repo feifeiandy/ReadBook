@@ -22,8 +22,17 @@ namespace WindowsFormsApplication2
         {
             this.F = new Form1();
             this.F.Show();
-            this.button2.Click += new EventHandler(this.F.btn1);
-            this.button3.Click += new EventHandler(this.F.btn2);
+            this.F.btn1 += Cick;
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void Cick(object sender, EventArgs e)
+        {
+            MessageBox.Show("121");
         }
     }
 }

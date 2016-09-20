@@ -1,0 +1,6 @@
+D:\Git\C#_Demo\MyHttpClient\bin\Debug\MyHttpClient.exe.config
+D:\Git\C#_Demo\MyHttpClient\bin\Debug\MyHttpClient.exe
+D:\Git\C#_Demo\MyHttpClient\bin\Debug\MyHttpClient.pdb
+D:\Git\C#_Demo\MyHttpClient\obj\Debug\MyHttpClient.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\MyHttpClient\obj\Debug\MyHttpClient.exe
+D:\Git\C#_Demo\MyHttpClient\obj\Debug\MyHttpClient.pdb

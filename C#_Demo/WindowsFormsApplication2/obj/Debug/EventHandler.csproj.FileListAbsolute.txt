@@ -1,3 +1,10 @@
 D:\Git\C#_Demo\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\EventHandler.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Git\C#_Demo\WindowsFormsApplication2\obj\Debug\EventHandler.csproj.GenerateResource.Cache
+D:\Git\C#_Demo\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Git\C#_Demo\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb

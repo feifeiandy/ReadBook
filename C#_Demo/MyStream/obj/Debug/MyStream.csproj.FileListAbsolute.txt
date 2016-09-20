@@ -1,0 +1,6 @@
+D:\Git\C#_Demo\MyStream\bin\Debug\MyStream.exe.config
+D:\Git\C#_Demo\MyStream\bin\Debug\MyStream.exe
+D:\Git\C#_Demo\MyStream\bin\Debug\MyStream.pdb
+D:\Git\C#_Demo\MyStream\obj\Debug\MyStream.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\MyStream\obj\Debug\MyStream.exe
+D:\Git\C#_Demo\MyStream\obj\Debug\MyStream.pdb

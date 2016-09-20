@@ -1,0 +1,6 @@
+D:\Git\C#_Demo\MyCode\bin\Debug\MyCode.exe.config
+D:\Git\C#_Demo\MyCode\bin\Debug\MyCode.exe
+D:\Git\C#_Demo\MyCode\bin\Debug\MyCode.pdb
+D:\Git\C#_Demo\MyCode\obj\Debug\MyCode.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\MyCode\obj\Debug\MyCode.exe
+D:\Git\C#_Demo\MyCode\obj\Debug\MyCode.pdb
