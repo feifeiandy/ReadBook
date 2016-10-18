@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NewSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="Student" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Student">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Name" />
+        <xs:element ref="Age" />
+        <xs:element ref="Gender" />
+        <xs:element ref="Grade" />
+        <xs:element ref="Hobby" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Name" type="xs:string" />
+  <xs:element name="Age" type="xs:integer" />
+  <xs:element name="Gender">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="Male" />
+        <xs:enumeration value="Female" />
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="Grade" type="xs:string" />
+  <xs:element name="Hobby" type="xs:string" />
+</xs:schema>

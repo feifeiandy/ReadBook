@@ -1,0 +1,10 @@
+D:\Git\C#_Demo\GUId\bin\Debug\GUId.exe.config
+D:\Git\C#_Demo\GUId\bin\Debug\GUId.exe
+D:\Git\C#_Demo\GUId\bin\Debug\GUId.pdb
+D:\Git\C#_Demo\GUId\obj\Debug\GUId.exe
+D:\Git\C#_Demo\GUId\obj\Debug\GUId.pdb
+D:\Git\C#_Demo\GUId\bin\Debug\GUId.exe.manifest
+D:\Git\C#_Demo\GUId\bin\Debug\GUId.application
+D:\Git\C#_Demo\GUId\obj\Debug\GUId.TrustInfo.xml
+D:\Git\C#_Demo\GUId\obj\Debug\GUId.exe.manifest
+D:\Git\C#_Demo\GUId\obj\Debug\GUId.application

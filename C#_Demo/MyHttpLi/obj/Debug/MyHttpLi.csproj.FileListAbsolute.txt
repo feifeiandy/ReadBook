@@ -1,0 +1,9 @@
+D:\Git\C#_Demo\MyHttpLi\bin\Debug\MyHttpLi.exe.config
+D:\Git\C#_Demo\MyHttpLi\bin\Debug\MyHttpLi.exe
+D:\Git\C#_Demo\MyHttpLi\bin\Debug\MyHttpLi.pdb
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.csprojResolveAssemblyReference.cache
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.Form1.resources
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.Properties.Resources.resources
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.csproj.GenerateResource.Cache
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.exe
+D:\Git\C#_Demo\MyHttpLi\obj\Debug\MyHttpLi.pdb

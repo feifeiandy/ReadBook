@@ -1,0 +1,6 @@
+D:\Git\C#_Demo\UserSection\bin\Debug\UserSection.exe.config
+D:\Git\C#_Demo\UserSection\bin\Debug\UserSection.exe
+D:\Git\C#_Demo\UserSection\bin\Debug\UserSection.pdb
+D:\Git\C#_Demo\UserSection\obj\Debug\UserSection.exe
+D:\Git\C#_Demo\UserSection\obj\Debug\UserSection.pdb
+D:\Git\C#_Demo\UserSection\obj\Debug\UserSection.csprojResolveAssemblyReference.cache
